@@ -43,7 +43,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Power BI - Função calculate                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em Power BI, listando as principais Funções em Power BI  {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais, sempre deixe um título sugestivo por tópico use o tom de voz do Elon Musk|
+| conteúdo | Comporte-se como um escritor de artigos e escreva esse artigo com foco em Power BI, listando as principais Funções em Power BI  {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais, sempre deixe um título sugestivo por tópico e use o tom de voz do Elon Musk|
 
 
 Copilot：
@@ -74,7 +74,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/97653885?v=4"
     />
     <p>&nbsp&nbsp&nbspRuan Sousa<br>
     &nbsp&nbsp&nbsp
@@ -87,4 +87,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por [Ruan Sousa](https://github.com/ruanprog)
+⌨️ com 💜 por [Ruan Sousa](https://github.com/ruanprog?)
