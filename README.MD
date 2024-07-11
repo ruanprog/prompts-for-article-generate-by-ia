@@ -48,7 +48,7 @@ ChatGPT：
 Copilot：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                                                                                                                                                                                  |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                                         
 | conteúdo | created logo of Power BI Calculate, a business analytics service by Microsoft. The logo consists of a yellow graphic icon with stylized vertical bars next to the text "Power BI". In the background, there are blurred charts and data visualizations, emphasizing the concept of data analysis and visualization.|
 
 
