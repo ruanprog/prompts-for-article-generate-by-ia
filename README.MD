@@ -45,18 +45,17 @@ ChatGPT：
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Power BI - Função calculate                                                                                                                                                                                                    |
 | conteúdo | Comporte-se como um escritor de artigos e escreva esse artigo com foco em Power BI, listando as principais Funções em Power BI  {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais, sempre deixe um título sugestivo por tópico e use o tom de voz do Elon Musk|
 
-
 Copilot：
 
-- No Copilot utilizamos as imagens geradas pelo mesmo, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
-
-• Power BI
-
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                                                                                                                                                                                  |
+| conteúdo | created logo of Power BI Calculate, a business analytics service by Microsoft. The logo consists of a yellow graphic icon with stylized vertical bars next to the text "Power BI". In the background, there are blurred charts and data visualizations, emphasizing the concept of data analysis and visualization.|
 
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
+- Conteúdo aperfeiçoado via Gemini
 - Imagens geradas pelo Copilot
 
 ## 📚 Materiais
