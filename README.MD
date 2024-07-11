@@ -10,12 +10,6 @@
 
 -------
 
-<p align="center">
-  <img 
-    src=".github/assets/preview.png"
-    width="400"  
-  />
-</p>
 
 # Projeto artigo técnico gerado por I.A.s
 
@@ -24,7 +18,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://web.dio.me/articles/desvendando-a-funcao-calculate-no-power-bi-um-olhar-espacial?back=%2Farticles&open-modal=true&page=1&order=oldest">title Função calculate    e="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/desvendando-a-funcao-calculate-no-power-bi-um-olhar-espacial?back=%2Farticles&open-modal=true&page=1&order=oldest" title Função calculate    e="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
